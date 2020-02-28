@@ -10,7 +10,7 @@
  > Am an easy person to interact with and I love nature.
  
  ## LINK TO LIVE SITE
- > click [HERE]()
+ > click [HERE](https://github.com/LukindoSandra/About-Me/tree/master)
  
  ## TECHNOLOGIES USED
  > I used HTML/CSS while consulting the W3Schools.
