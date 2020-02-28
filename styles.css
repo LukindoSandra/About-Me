@@ -1,3 +1,27 @@
+body{
+    background-color: rgb(205, 218, 255);
+    text-align: left;
+}
+h1{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: medium;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: underline;
+    color: brown;
+}
+h2{
+    font-family: cursive;
+    font-style: oblique;
+    font-size: medium;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: underline;
+    color: brown;
+
+}
 
 
 
